@@ -76,7 +76,6 @@ The installer will automatically:
 | Form Creator | ✅ Unlocked |
 | Cloud Sync | ✅ Unlocked |
 | Mobile App Sync | ✅ Unlocked |
-| Batch Processing | ✅ Unlocked |
 | Adobe Document Cloud | ✅ Unlocked |
 | All Premium Features | ✅ Unlocked |
 
